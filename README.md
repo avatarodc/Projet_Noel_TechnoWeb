@@ -64,7 +64,7 @@ app/
 ```
 
 ## Auteur
-[Votre Nom]
+Mamadou GUEYE
 
 ## Licence
 Ce projet est réalisé dans le cadre d'un exercice académique.
